@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+Desenvolvedor Full Stack
+Carlos Altomare Catao
+matricula: 20240346.0912
+EAD - Polo Santa Luiza - Vitoria - ES
+-->
+
+<web-app version="4.0" 
+         xmlns="http://xmlns.jcp.org/xml/ns/javaee"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee 
+                             http://xmlns.jcp.org/xml/ns/javaee/web-app_4_0.xsd">
+
+    
+    <session-config>
+        <session-timeout>30</session-timeout>
+    </session-config>
+
+</web-app>
